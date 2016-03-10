@@ -1,0 +1,32 @@
+<!doctype html>
+<html>
+<head>
+<script src="validation.js"></script>
+<link rel="stylesheet" type="css/text" href="loginstyle.css">
+</head>
+
+<body  ng-app="">
+<div class="position" align="center" style="margin-top:100px">
+
+
+<form id="form" method="POST" action="" name="myForm">
+
+<h1 style="color:white">Login Form</h1>
+<h3 style="color:white">Fill out the form below to login</h3>
+<div class="row">
+<input type="text" name="myName" id="username"  placeholder="Username" style=" background-image: -webkit-linear-gradient(top,#f5f5f5,#f1f1f1);height:27px" required>  <i><span id="errfn"style="color:red;font-size:15px"></span></i></br></br>
+</div>
+
+<div class="row">
+<input type="password" id="password" name=""  placeholder="Password" style=" background-image:-webkit-linear-gradient(top,#f5f5f5,#f1f1f1);height:27px" required><i><span id="errps"style="color:red;font-size:15px"></span></i></br></br>
+</div>
+
+<button class="button" onClick=" return check()">Sign In</button>
+
+
+</form>
+
+</div>
+</body>
+
+</html>

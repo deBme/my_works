@@ -1,0 +1,23 @@
+<html>
+
+<head>
+<link href="https://fonts.googleapis.com/css?family=Lato:100" rel="stylesheet" type="text/css">
+
+<title>LogIn Successful </title>
+<head>
+<style>
+div{
+text-align:center;
+color:red;
+font-weight:100;
+font-size:150px;
+font-family: 'Lato';
+
+}
+
+</style>
+
+<body>
+<div>Login Successful <div>
+</body>
+</html>
