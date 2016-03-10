@@ -2,7 +2,7 @@
 <html>
 <head>
 <script src="validation.js"></script>
-<link rel="stylesheet" type="css/text" href="debjyoti12.css">
+<link rel="stylesheet" type="css/text" href="loginstyle.css">
 </head>
 
 <body  ng-app="">
