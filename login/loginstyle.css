@@ -1,14 +1,14 @@
 #form{
 display:table;
 
-background-color:#060202;
+background-image:url('blur2.jpg');
 
 padding:4% 7% 4% 4%;
 width:50%;
 
 text-align:left;
 
-box-shadow: 10px 10px 5px #888888;
+box-shadow: 10px 10px 5px #000;
 
 border-radius:1px;
 }
@@ -84,7 +84,7 @@ input:focus {
 
   outline: none;
   
-	
+  
 
 
 }
@@ -95,8 +95,7 @@ input:focus {
 
 body{
 
-background-color:;
+background-image:url('blur2.jpg');
 
 }
-
 
