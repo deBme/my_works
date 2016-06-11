@@ -1,5 +1,5 @@
 Hi,
-This is a simple login page (validation of the username and password).It will validate the username if it only 
+This is a simple client side login validation code.It will validate the username if it only 
 has alphabetic charaters  and for password there should be atleast one uppercase one lowercase and one numeric
  value, the length of the password should be in between 6 to 32.
 
